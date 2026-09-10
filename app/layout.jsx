@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Platform Dashboard'}; export default function Layout({children}){return <html><body>{children}</body></html>}
